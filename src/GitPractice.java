@@ -8,6 +8,8 @@ public class GitPractice {
 			System.out.println("darr lag rahi");
 			
 			System.out.println("Kaisi ho aap , Kya kar rahi ho");
+			
+			System.out.println("aabad");
 
 	}
 
