@@ -6,6 +6,8 @@ public class GitPractice {
 			System.out.println("Hello Suchi, Good morning !!");
 			
 			System.out.println("darr lag rahi");
+			
+			System.out.println("Kaisi ho aap , Kya kar rahi ho");
 
 	}
 
